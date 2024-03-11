@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "linesma@l.com",
+                "Name": "Kingrat"
+            }
+        ],
+        "Category": "",
+        "Description": "It's Purple!",
+        "Id": "Purple-Splash",
+        "License": "GPLv3",
+        "Name": "Purple Splash Plasma 6",
+        "Website": "https://github.com/linesma/Purple-Splash"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
